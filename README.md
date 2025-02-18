@@ -1,6 +1,5 @@
 # Alura-Amigo-Secreto
 Última Atividade da primeira semana do curso de programação de Alura. Um site de sorteio com nomes de seus amigos (Amigo Secreto).
-
 #
 
 *INFORMAÇÃO SOBRE INSTALAÇÃO*
