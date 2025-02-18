@@ -1,9 +1,11 @@
 # Alura-Amigo-Secreto
 Última Atividade da primeira semana do curso de programação de Alura. Um site de sorteio com nomes de seus amigos (Amigo Secreto).
 
+#
+
 *INFORMAÇÃO SOBRE INSTALAÇÃO*
 
-dentro da pagina da instalação do projeto, no GitHub, vá no botão verde escrito "<> code" e clique em "Download ZIP".
+Dentro da pagina da instalação do projeto, no GitHub, vá no botão verde escrito "<> code" e clique em "Download ZIP".
 
 *cOMO EXECUTAR O PROJETO*
 
