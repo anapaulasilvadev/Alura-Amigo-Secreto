@@ -7,9 +7,9 @@
 
 Dentro da pagina da instalação do projeto, no GitHub, vá no botão verde escrito "<> code" e clique em "Download ZIP".
 
-*cOMO EXECUTAR O PROJETO*
+*COMO EXECUTAR O PROJETO*
 
-Em uma IDE, principalmente se for em VS Code (Visual Studios), baixe a modificação chamada "Live Server", vá nos códigos do projeto, clique com o botão direito do mouse e vá no Open with Live Server e... pronto, a pagina abrirá uma nova guia do seu navegador automaticamente para que você possa utilizar o projeto.
+Em uma IDE, principalmente se for em VS Code (Visual Studios), baixe a modificação chamada "Live Server", vá nos códigos do projeto, clique com o botão direito do mouse e vá no Open with Live Server e... Pronto, a pagina abrirá uma nova guia do seu navegador automaticamente para que você possa utilizar o projeto.
 
 *POSSÍVEIS PROBLEMAS E SOLUÇÕES*
 
