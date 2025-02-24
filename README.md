@@ -15,4 +15,4 @@ Em uma IDE, principalmente se for em VS Code (Visual Studios), baixe a modifica�
 Quando um determinado nome é sorteado, a lista de amigos não some. Para solucionar o problema, clique em "Reiniciar" e em "Deletar nomes".
 
 #
-#Obsevação
+# Obsevação
