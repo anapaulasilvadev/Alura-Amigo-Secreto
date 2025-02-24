@@ -1,4 +1,4 @@
-# Alura-Amigo-Secreto
+# Alura: Site Sorteio - Amigo Secreto
 Última Atividade da primeira semana do curso de programação de Alura. Um site de sorteio com nomes de seus amigos (Amigo Secreto).
 #
 
@@ -16,3 +16,5 @@ Quando um determinado nome é sorteado, a lista de amigos não some. Para soluci
 
 #
 # Obsevação
+O objetivo principal deste desafio é desenvolver habilidades em conceitos-chaves da lógica do código JavaScript, como funções, arrays, condicionais e variáveis. As mecânicas adicionadas, como os botões "Reiniciar" e "Deletar nomes" servem para que não haja bugs ao realizar o sorteio de nomes novamente, apesar de que não está descrito na atividade/desafio que essas mecânicas estejam no site.
+
